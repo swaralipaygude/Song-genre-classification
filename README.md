@@ -1,3 +1,4 @@
+<pre>
 # Song-genre-classification
 Machine learning algorithms used to classify genres of songs
 
@@ -24,3 +25,5 @@ KNN			                91.67 %
 Bagging                 90.84%
 
 Boosting                88.83%
+
+</pre>
