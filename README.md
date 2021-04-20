@@ -14,16 +14,12 @@ Operations performed: data preprocessing, classification using the above ML tech
 
 **Results:**
 
-Model			              Accuracy
+Model	with Accuracy:
 
-Logistic regression	    89.17 % 
-
-Decision tree 		      85.91 %
-
-KNN			                91.67 %
-
-Bagging                 90.84%
-
-Boosting                88.83%
+Logistic regression - 89.17 % 
+Decision tree - 85.91 %
+KNN - 91.67 %
+Bagging - 90.84%
+Boosting - 88.83%
 
 </pre>
