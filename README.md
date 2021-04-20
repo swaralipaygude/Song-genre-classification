@@ -9,10 +9,11 @@ The **dataset** used is a combination of 2 files :
 CSV file - contains the metadata about the tracks
 JSON file - contains the musical features/metrics of each track (on a scale from -1 to 1)
 
-ML algorithms: Logistic regression, Decision tree classifier, K nearest neighbors classifier
+**ML algorithms:** Logistic regression, Decision tree classifier, K nearest neighbors classifier
 Operations performed: data preprocessing, classification using the above ML techniques, clustering, ensemble techniques(bagging and boosting)
 
 **Results:**
+
 (Model and accuracy)
 <pre>
 Logistic regression - 89.17 % 
