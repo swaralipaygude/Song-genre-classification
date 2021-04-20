@@ -13,8 +13,7 @@ ML algorithms: Logistic regression, Decision tree classifier, K nearest neighbor
 Operations performed: data preprocessing, classification using the above ML techniques, clustering, ensemble techniques(bagging and boosting)
 
 **Results:**
-
-Model	with Accuracy:
+(Model and accuracy)
 <pre>
 Logistic regression - 89.17 % 
 Decision tree - 85.91 %
